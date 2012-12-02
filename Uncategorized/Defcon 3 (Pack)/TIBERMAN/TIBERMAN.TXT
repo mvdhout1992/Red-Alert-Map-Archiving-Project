@@ -1,0 +1,16 @@
+This is my first map! Hope you like it! It is made for 2-7 players.
+The level is 96x96, and there should be plenty of minerals and gems to harvest.
+
+Two players start on the island at the bottom of the map, and has a good supply of resources.
+These players are isolated from the mainland by a large river.
+If they wish to attack, a navy is a neccessity.
+The other players can use their navies to attack the isolated
+players with cruisers.
+I hope this works as well as I wanted it to. :)
+Let me know!
+Enjoy!
+
+PS, do not use the 8th color , i think it's orange, while playing this map, or you will get a base not where it's supposed to be.
+It's weird, but the editor gives you the 8 flags to use but if you don't use one (red for example) then any player that picks that color will get a base at a random location.
+
+Tiberman - Captain of the CCC, member of the RAA, TSE, and RAF.

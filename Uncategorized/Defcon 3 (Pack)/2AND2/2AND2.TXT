@@ -1,0 +1,4 @@
+Name: 		2 and 2
+Players:	4-8
+Size:		126x64
+-- 

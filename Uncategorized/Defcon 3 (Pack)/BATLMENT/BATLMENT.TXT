@@ -1,0 +1,17 @@
+Map Name: Battlements 1
+Map Maker: Captain Tiberman
+Map Size:96x96
+Map Players: (maximum)8
+Map Hours to build:1.5hours
+Cash on Map:1,612,530 at last count.
+Description:A really neat map! NO, really, it 
+should be pretty cool. I made it out of boredom. It
+has 8 starting spots all in heavily defendable positions.
+The objective should be to conquer the center position.
+This is a stronghold that is in the middle of the map.
+One person starts there, and the others hafta try to 
+kick him off. :)
+Please d not use this map as a building start for your
+maps.
+jinman@qis.net
+http://qis.net/~jinman/ra.html

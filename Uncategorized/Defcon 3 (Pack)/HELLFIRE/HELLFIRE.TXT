@@ -1,0 +1,12 @@
+
+Level Name: Hellfire Island
+Theatre: Temperate
+Map: 96x96
+Type: MULTI-PLAYER, 2-4 players
+Starting Points: 4
+Version: 1.0
+Source : Scratch
+Author : Hellfire
+email: 
+Tested On: RA95 v1.04
+Notes:

@@ -1,0 +1,12 @@
+STALINGRAD(64x126) Temperate
+By Avi Vyshetsky
+
+	This map is 4 player, 2 vs 2 teams. Two players start on 
+	the top and two on the bottom. There is a lot of ore and 
+	gems on this map so it would be easy to create giant 
+	armies. There also a lot of mountains on this map so 
+	it would be pretty easy to defend your base, but hard to
+	get it your opponents base.
+						
+					
+	Enjoy the map and send any comments to vdimitri@best.com

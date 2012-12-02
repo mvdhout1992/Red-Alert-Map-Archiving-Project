@@ -1,0 +1,5 @@
+Creator: Colby Perry 
+Email:cyben@cwo.com	
+Mapname:Ore Plateau
+Map Width/Height:96x96, Snow
+Layout:Near the top is a Plateau full of Ore, with lakes around the area

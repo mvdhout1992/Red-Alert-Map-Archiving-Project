@@ -1,0 +1,18 @@
+Map Name: Icy Ridges
+Size:     96 x 96
+Terrain:  Snow
+Author:   dustin@hub.ofthe.net
+Date:     Nov. 30, 1996
+
+This is a good level for two to four players.  Hints...build
+several refineries (packed w/ore).  Each quadrant has a
+beach that is accesible from the rest by the outside (strong
+naval forces will help).
+
+Feel free to distribute this map in its original form.
+
+I welcome any comments, or suggestions that might make it a 
+little bit better.
+
+NiTsUd
+dustin@hub.ofthe.net

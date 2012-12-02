@@ -1,0 +1,26 @@
+
+Level:        Miners Delight
+Author:       Sabatour (Wayne Martin)
+E-mail:       Blade@marshill.com
+Date:         12/1/1996
+Build time:   One Week
+Designed for: 8 player multi
+Description:  This level contains enough ore to last for a long battle
+              (A total of 2,000,005 credits.) It is built like a
+              tic-tac-toe board with most of the gold and jewels in the
+              middle.  This level can be played with less people but it
+              dosen't work as well.  I have played this map with one other
+              human and 3 computer players it worked well.
+Known Bugs:   It seems the computer gets jamed up with only having two
+              entrances to their base.  The 4 corners are at a dissadvantage
+              because they have to go through another "square" to be able to
+              access the ore in the middle of the map.  Makes for a more
+              interesting battle.
+Note:         If you destroy the bridges around you it is gone for good.  May
+              do you good for the shortrun but it will hurt you in the end.
+              E-Mail Westwood and ask them nicely to include repairable
+              bridges in the next RA patch at VirtualTed@westwood.com or
+              Pat@westwood.com I think it was a mistake to leave this out.
+              And i'm allways open to sugestions on my next map so E-Mail me
+              If you have any ideas/Requests death threats whatever!
+              And thanks for usin my map!

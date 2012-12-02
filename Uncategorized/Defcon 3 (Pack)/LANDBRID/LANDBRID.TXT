@@ -1,0 +1,12 @@
+Level Name: Land Bridge
+Size:96 by 96
+No. of players: 2-5 or 6 is good.  Any more and the land gets crowded.
+Designed by A1 Steak
+
+
+Description:  Basiclly it's a water level with a bunch of islands
+connected by land bridges.  I believe there is plenty of ore but
+I may be wrong.  This mission should be able to bring out the best
+of both worlds with lots of land for the soviets tanks and lots of 
+water for allies navy.  If you have any comments e-mail me at
+antley@bellsouth.net  This is my first RA map so comments are welcome.

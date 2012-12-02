@@ -1,0 +1,26 @@
+Map : Symetric Island ,2nd by ~->CHEFEN<-~
+Size : 64x64
+Temperate
+--------------------------------------------
+Author : ChEfEn
+Email : ingunn@sn.no
+HP : http://home.sn.no/~ingunn 
+IRC: irc.homelien.no , channel: #norge5
+--------------------------------------------
+
+Note:
+If u play 2 vs. 2, then each team should use the 2 closest colors...err
+HERE: - team 1:BEIGE and BLUE - team 2: RED and GREEN - team 3: ORANGE and WHITE
+and so on...
+But if u play 4... then use one color from each team.
+
+Description:
+1 big island divided in 4 by water, cool for 4 player net, or 
+8 player net (2 and 2 are allies)
+
+Hint:
+Play tech level 10 :)
+
+
+If u got any suggestions or complaints, then e-mail me.
+Get other levels made by me at my site, or the RA map pack.

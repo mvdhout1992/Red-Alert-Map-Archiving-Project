@@ -1,0 +1,22 @@
+Red Alert Multiplay Level
+
+Name	: Almost Adult
+Creator	: Mickey
+Email	: redalert@dutchnet.nl
+URL	: http://www.worldonline.nl/~mickey/   (for all you maps)
+Size	: 126x64
+Players	: 2-6
+
+
+Description:
+------------
+
+Updated level of "Red Alert's Baby"
+
+Three horizontal islands, a small top one, a small bottom one, and
+a large middle one. Islands devided by rivers, both with ywo bridges
+and one crossing.
+Gold and gems in the top and the bottom, a lot of gems in the middle.
+Watch any cruisers !!!!!
+
+Mickey

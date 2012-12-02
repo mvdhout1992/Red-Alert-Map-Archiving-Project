@@ -1,0 +1,14 @@
+Level Name:Spider Lake
+Type: Snow
+No. of players: 2-6
+Use: Multi or skirmish but the AI tends to have traffic jams.
+Size:96x96
+Desigined by: A1 Steak
+
+	A level designed to use all the weapons a player has.  I'm not
+sure about the ore level so if there isnt enough just E-mail me.  This
+level has a lot of land so the soviets can use plenty of tank power but
+the only way in to some bases is a bridge so the allies have an advantage.
+There is enough water for the Allies to use cruisers and such so the 
+power balance should be equal.  Any comments?  E-mail at antley@bellsouth.net
+I would like comments so as I can improve my map making skills.  Enjoy

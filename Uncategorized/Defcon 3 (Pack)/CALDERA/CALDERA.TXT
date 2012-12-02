@@ -1,0 +1,8 @@
+Name:	Lincoln Fok
+Email:	shoemach@hkstar.com
+Map:	Caldera GOLD (Lg)
+Size:	96 x 96
+Type:	Temperate
+Desc.:	Best for multiplayer (4) game. 
+	Everyone owns a corner. In the middle, 
+	it is a GOLD island!

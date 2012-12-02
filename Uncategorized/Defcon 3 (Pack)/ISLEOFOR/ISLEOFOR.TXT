@@ -1,0 +1,6 @@
+Author:Colby Perry
+Email:cyben@cwo.com
+Title of Map:Isle of Ore (96x96)
+Brief Description: There is a island at the bottom that is full of ore,
+and there is 1 bridge to get down there, but you can use transports to
+ get down.

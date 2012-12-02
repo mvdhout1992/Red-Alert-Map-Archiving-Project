@@ -1,0 +1,22 @@
+Map: Fortress
+Size: 96x96
+Author: Fenwick Peng
+Email: zpeng@waite.adelaide.edu.au
+
+Note: 
+This map is designed for up to 4 players.  All the players
+should either choose from the first four colors or the second
+four colors to make sure the starting positions are correct.
+
+Briefing:
+Your mission is to secure the four natural fortresses by 
+eliminate all your enemies. Those fortresses have narrow
+entrance and are almost impregnable.
+
+Spoiler:
+This mission is designed to be fair to both allied and soviet
+players. The soviets have far better defence and offence,
+but that is offset by the allies' use of a combination of
+chronosphere, cruisers and transports in the back door.
+
+Please send comments to zpeng@waite.adelaide.edu.au

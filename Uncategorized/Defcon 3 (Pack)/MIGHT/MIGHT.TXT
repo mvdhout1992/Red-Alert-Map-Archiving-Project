@@ -1,0 +1,34 @@
+
+Level Name: Might Makes Right
+Theatre: Winter 
+Map: 96x96
+Type: MULTI-PLAYER, 2-4 players
+Starting Points: 4
+Version: 1.1
+Source : Scratch
+Author : Skarecrow
+email: skarecro@hotmail.com
+Tested On: RA95 v1.04
+Notes: Quite an interesting level. It looks like your normal double-mirrored
+        board, but the interesting twists are "the trench", a long path that
+        links the north and south, going through the center of the map, and
+        the twin "diamond forests" which have to be seen to be believed.
+        Whichever player grabs control of the diamond forest on their side
+        of the map will become the dominant player on that side of the map,
+        hence the name of the level (suffice it to say you have to blast your
+        way into the dia forest, and if you don't have the firepower to hold
+        it, you've just created a weak spot in your base instead of
+        strengthening it).
+
+        The level almost has a War2 feel to it because you have to blast
+        through the trees. It was (obviously) designed for 4 players, but
+        it plays completely different (and not at all less enjoyable) with
+        2 players. This board also works quite well with the inital starting
+        units set to 0. It is easliy defensable early in the game, no more
+        early game ending strikes of 15 medium or heavy tanks.
+
+        Finally, this board has more money than anyone will know what to do
+        with. According to the RA map editor, it has nearly 2 million credits
+        worth of ore and gems. That's nearly 25,000 minigunners. 250
+        minigunners is an extremely large ammount, 2,500 is nearly
+        unimaginable, and this board can fund 25,000. hehe.

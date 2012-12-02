@@ -1,0 +1,15 @@
+Red Alert Scenario : D - Day
+Theatre : TEMPERATE
+Map     : 62x62
+Type    : 2 - Player MultiPlayer
+Notes   : 
+
+Source : From Scratch
+Author : Kyle Hegeman (Red-Eye)
+E-MAIL : khegeman@cybermax.net
+
+
+*** You may do with this scenario as you wish however please consider
+    when using it as the basis for another scenario, to give credit
+    where it is due.
+

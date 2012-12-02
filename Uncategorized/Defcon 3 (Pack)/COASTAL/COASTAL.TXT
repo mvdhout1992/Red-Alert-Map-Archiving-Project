@@ -1,0 +1,43 @@
+Level:        Coastal Islands
+Author:       Laser777
+E-mail:       Drose@ix.netcom.com
+Date:         12/1/96
+Build time:   One day
+Setting:      Snow
+Size:         96 x 96
+Money:        $717515
+Designed for: up to 8 players
+Description:  A map with mainland, 2 main islands, and 1 ore island.
+	      There is a treasure island with just gemstones but there is no 
+	      way to get to it except a water transport, so if you want the
+	      big bucks, you gotta work for them.  There is not really much
+	      ore on the map so 8 player doesn't work to well, but less 
+	      players seem to work just fine.  Some starting points are in
+	      good defensive positions, others are in good offensive 
+	      positions, but none have both.  Most bases have access to the
+	      water for naval yards and sub pens but some don't.  This map 
+	      requires harv guards as well because once you use up the ore
+	      around your base, you will have to travel to get more.	
+Instructions: I figured I'd put this in so I don't get e-mails sayin "How
+	      do I use your map?"  To use the map just unzip it in your
+	      Redalert directory, then once in game when you have a choice
+	      of what level you want, just scroll down until you see the map.
+	      Pick the map, and any other options you want and you're off.
+Known Bugs:   No known bugs as of yet, but I haven't tested it that much.
+	      Only tested it with skirmish battles so far, but will be 
+	      testing with a human soon.
+Note:         This was my first try ever at creating a map so I want some
+	      response e-mail telling me what you like and don't like, so 
+	      please write me, it will only take you a couple minutes.  And
+	      just think, you will get better maps when you do write me 
+	      because I plan on creating many more.
+Shout out:    I'd like to say hey to all my friends on TEN, don't have time
+	      for names (I'm actually afraid I'd miss someone :)  )  You guys
+	      know who you are.  I'm expecting some e-mail from you!
+              
+              
+              
+              
+              
+              
+              

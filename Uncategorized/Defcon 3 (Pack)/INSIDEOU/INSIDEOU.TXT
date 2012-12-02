@@ -1,0 +1,17 @@
+Map Title:	InSideOut
+
+Multiplayer:	Up to 4 players
+
+Map Size:	96 X 96
+
+Climate:	Temperate
+
+Description:	A large map with a lake in the center.  A river that runs
+                around it and lots of goodies on the outside edges.
+
+Creator:		KingSide	(kingside@wwa.com)
+
+This map was created for the enjoyment of Red Alert fans everywhere.
+Permission is granted to use the map but please don't alter it.
+If you have any Comments, Good Map - It SUX - Whatever, please leave me email.
+I would love to know what you think makes for a good map.

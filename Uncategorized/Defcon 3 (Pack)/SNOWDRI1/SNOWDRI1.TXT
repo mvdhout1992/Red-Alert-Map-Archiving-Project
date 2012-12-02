@@ -1,0 +1,13 @@
+Map:	Snowdrift
+Size:	96x96
+Author: SammyD
+
+Money:  935,415
+
+Build Time - about 6 hours
+
+This is my first map for RA.  There are only two tile flaws that I know of,
+each barely noticeable.  Regardless - I spent more time on Snowdrift than
+the authors of most of the other RA maps out there.
+
+Enjoy

@@ -1,0 +1,18 @@
+NAME: QUARTERSRA
+
+AUTHOR: AARON MILLIS (amillis@marsweb.com)
+
+NUMBER OF PLAYERS: 4
+
+TOTAL $ ON MAP:  $2,300,000
+
+REVIEW: This map is based on the great C&C multiplayer map, Quarters. 
+There are 4 blocks of land in each corner of the map, all connected by
+land on the sides of the map, and by bridges connecting the blocks. It
+is very even, with enough gold and gems and water access for all. The way
+me and my friends usually play is with a 30min buildup, but this map works 
+great with or without a buildup. Another reason that it's only for 4
+players (besides the name) is Westwood's sloppy LAN networking code.
+Please mail Westwood and tell them that you'd like it to be fixed! Well,
+I'm off to battle.
+

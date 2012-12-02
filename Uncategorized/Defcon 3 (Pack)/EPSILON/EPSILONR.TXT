@@ -1,0 +1,16 @@
+
+Map Title:      Epsilon Quadrant
+
+Multiplayer:    From 2 to 4 players
+
+Map Size:       126 x 64
+
+Weather:        Winter
+
+Description:    More strategy driven than power based map.
+                Large lake in middle promotes the use of
+                Water transports and eliminates large
+                Tank raids.
+
+Author:         (Sacrates)
+

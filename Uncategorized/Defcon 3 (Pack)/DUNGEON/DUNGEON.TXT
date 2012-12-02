@@ -1,0 +1,4 @@
+Map: Dungeons of Hell
+Map Size: Large (96x96)
+Arthor: Scorpion/Fiction Design
+Home Page: http://www.danbbs.dk/~scorpion
