@@ -1,0 +1,11 @@
+Name: V3-RASHODOWN (use this, not modified)
+Author: N/A
+Date: N/A
+Players: N/A
+Theater: Temperate
+Size: 126x64
+Obtained through: http://www.cncgames.com/redalertmaps.shtml (cncden.com)
+
+Note: Description from download site: "This is a very popular Red Alert map that is mainly used for 2v2 multiplayer games."
+
+Modifications:
