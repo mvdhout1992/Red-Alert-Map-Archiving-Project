@@ -9,4 +9,4 @@ Every map has it's own folder containing the following files:
 -A .MPR file: This is the actual map file.  
 -author.txt: If available this file exists and contains the author's description/comments for this map.  
 -description.txt: Contains a description of the map featuring info such as map name, size, modifications done to game settings etc..  
--mappreview.gif: An image showing how the map looks like, taken from a shot of the RAED map editor.  
+-mappreview.gif: An image showing how the map looks like, taken from a inside the RAED map editor.  
