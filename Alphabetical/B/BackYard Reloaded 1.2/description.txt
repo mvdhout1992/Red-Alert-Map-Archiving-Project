@@ -1,0 +1,11 @@
+Name: BackYard Reloaded 1.2
+Author: N3tRunn3r
+Date: 26 December 2007
+Players: 2-8
+Theater: Temperate
+Size: 20x16
+Obtained through: www.cnc-comm.com
+
+Note: This is a crate map so set starting credits to 0 and sell your MCV at the start of the game.
+
+Modifications: Pillbox, Camo-Pillbox, Turret, Flame Turret and Kennel only require a Power Plant to be buildable and are owned by both sides. Grenadier and Dog are buildable by both sides. Flamethrower only requires a Power Plant to be buildable and is also owned by both sides. All the aforementioned are available starting from tech level 1. Crate settings: CrateMinimum=3, CrateMaximum=5, CrateRegen=2 and WaterCrateChance=0%.

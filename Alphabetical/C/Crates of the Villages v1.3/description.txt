@@ -1,0 +1,43 @@
+Name: Crates of the Villages v1.3
+Author: N3tRunn3r
+Date: 25 December 2007
+Players: 2-8
+Theater: Temperate
+Size: 64x64
+Obtained through: www.cnc-comm.com
+
+Note: This is a crate map so set starting credits to 0 and sell your MCV at the start of the game. The map is located inside a village with civilians walking around. You are allied to these villagers but you can still kill them by force-firing (hold the Ctrl button and click on a target).
+
+Modifications: Pillbox, Camo-Pillbox, Turret, Flame Turret and Kennel only require a Power Plant to be buildable and are owned by both sides. Grenadier and Dog are buildable by both sides. Flamethrower only requires a Power Plant to be buildable and is also owned by both sides. All the aforementioned are available starting from tech level 1. Every player is allied with the villagers.
+
+[General]
+CrateMinimum=8
+CrateMaximum=20
+CrateRadius=3.0
+CrateRegen=4
+UnitCrateType=none
+
+[Powerups]
+Armor=10,ARMOR,2.0
+Cloak=5,STEALTH2
+Darkness=3,EMPULSE
+Explosion=5,NONE,500
+Firepower=10,FPOWER,2.0
+HealBase=3,INVUN
+ICBM=10,MISSILE2
+Money=50,DOLLAR,2000
+Napalm=5,NONE,600
+ParaBomb=10,PARABOX
+Reveal=5,EARTH
+Sonar=3,SONARBOX
+Speed=10,SPEED,1.7
+Squad=20,NONE
+Unit=20,NONE
+Invulnerability=5,INVULBOX,1.0
+TimeQuake=3,TQUAKE
+
+[Recharge]
+Nuke=3
+ParaBomb=1
+Saboteur=0
+Sonar=0

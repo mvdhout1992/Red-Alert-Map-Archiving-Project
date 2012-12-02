@@ -1,0 +1,11 @@
+Name: Oilfields v1.0
+Author: N3tRunn3r
+Date: 25 December 2007
+Players: 2-6
+Theater: Temperate
+Size: 126x64
+Obtained through: www.cnc-comm.com
+
+Modifications:
+
+Oil derricks are capturable with engineers, they take 100 power and store 2000 credits. Refinery stores 25,000 credits and silo stores 8,000. The parabombs powerup drops one nuke, nuke damage set to 2500. Harvester carries less 'bails' (set to 20). Normal yellow ore is worth 4 times as much and gems are worth 5 times as much. Ore regrows ten times faster. Power Plant gives 2.5 times more power, the Advanced Power Plant around 2.35 times more power.

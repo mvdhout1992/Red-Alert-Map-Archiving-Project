@@ -1,0 +1,7 @@
+Name: Ricotac
+Author: Warlord
+Date: 10 December 2007
+Players: 2-4
+Theater: Snow
+Size: 64x64
+Obtained through: www.cnc-comm.com

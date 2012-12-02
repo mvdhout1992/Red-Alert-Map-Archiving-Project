@@ -1,0 +1,11 @@
+Name: Sea-Wraps v2.3
+Author: N3tRunn3r
+Date: 25 December 2007
+Players: 2-8
+Theater: Temperate
+Size: 120x120
+Obtained through: www.cnc-comm.com
+
+Note: Naval and defences in the lake in the middle of the map. A few villages here and there. Attacking the civilians might lead to unexpected surprises. ;)
+
+Modifications: Civilians don't panic and they all carry the pistol. The pistol has more range and does more damage, it also sounds like a machine gun. Oil derricks are capturable by Engineers and store 10,000 credits. When convoy trucks get destroyed they spawn crates. Nukes do 1800 damage. The max damage done by anything has been upped to 8000 from the normal 1000 (for the increased nuke damage). Ore Trucks carries 10% more bails. Ore grows 16 times faster. Normal yellow ore and gems are worth 3 times as much. Refineries store 50,000 credits and Silos store 10,000. The parabomb ability drops one nuke instead of a beeline of bomblets.
