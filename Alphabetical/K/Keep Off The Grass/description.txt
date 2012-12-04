@@ -1,0 +1,9 @@
+Name: Keep Of The Grass
+Author: Westwood Studios
+Date: October 31, 1996
+Players: 2
+Theater: Temperate
+Size: 48x48
+Obtained through: Comes with original game
+
+Note: This map is included in the original game (no expansions).

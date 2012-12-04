@@ -1,1 +1,6 @@
 -Add original non-expansion maps
+-Add maps from http://cncra1.blogspot.nl/
+-Add maps from http://www.cncforums.com/new/local_links.php?catid=62
+-Add maps from http://www.strategyinformer.com/pc/maps/ccredalert/map.html
+-Add maps from http://www.angelfire.com/mn/RaverRA/redalertmaps.html
+-Add maps from http://www.oocities.org/therapage/download.html

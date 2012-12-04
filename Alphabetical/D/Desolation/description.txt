@@ -1,0 +1,9 @@
+Name: Desolation
+Author: Westwood Studios
+Date: October 31, 1996
+Players: 6-8
+Theater: Snow
+Size: 96x96
+Obtained through: Comes with original game
+
+Note: This map is included in the original game (no expansions).

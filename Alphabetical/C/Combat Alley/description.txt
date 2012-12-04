@@ -1,0 +1,9 @@
+Name: Combat Alley
+Author: Westwood Studios
+Date: October 31, 1996
+Players: 4-6
+Theater: Snow
+Size: 64x126
+Obtained through: Comes with original game
+
+Note: This map is included in the original game (no expansions).
